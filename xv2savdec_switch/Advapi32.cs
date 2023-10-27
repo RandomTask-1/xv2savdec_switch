@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace xv2savdec
+namespace xv2savdec_switch
 {
     class Advapi32
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace xv2savdec
+namespace xv2savdec_switch
 {
     public static class Utils
     {
